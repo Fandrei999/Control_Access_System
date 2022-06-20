@@ -1,0 +1,12 @@
+TOKEN = '5093081646:AAFwQ3agi1362v-XXC4NUOTvNxrSqzj4R4E' # токен телеграм бота
+bot_password = '906090' # пароль для входа в бот
+host_name = 'localhost' # ip адрес БД
+user_name = 'root' # пользователь БД
+user_password = 'sanyababa' # пароль к БД
+db_name = 'sm_app' # имя базы
+persons_path = '/Users/andrei/Desktop/persons' # папка с пользователями
+pickle_path = '/Users/andrei/Desktop' # словарь с пользователями и закодированными фото
+rtsp_stream = '' # rtsp поток с камеры
+http_stream = '' # http поток с камеры
+com_port = '' # com-порт arduino
+guest_arr = ['Guest1', 'Guest2', 'Guest3', 'Guest4']
